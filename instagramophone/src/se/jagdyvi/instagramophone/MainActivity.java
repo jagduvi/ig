@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
         
         btnStart.setOnClickListener(new OnClickListener() {
 			
-			@Override
+			
 			public void onClick(View v) {
 				
 				 SetSound();
@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
         
         btnStop.setOnClickListener(new OnClickListener() {
 			
-			@Override
+			
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
 				StopSound();
